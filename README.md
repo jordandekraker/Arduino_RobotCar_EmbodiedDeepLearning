@@ -5,10 +5,9 @@ Repository for Kumantech SM3 Robot car python interface. The idea of this projec
 working: 
  - webcam stream import 
  - motor command output 
-
+ - camera pan/tilt servo command output 
 
 todo: 
- - pan/tilt servo comman output 
  - infrared sensor obstacle avoidance 
  - put some deep learning inside! 
 
